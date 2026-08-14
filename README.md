@@ -9,7 +9,7 @@
 **Project Daedalus** is an aerospace engineering project documenting the end-to-end aero-structural design, numerical simulation, and manufacturing layout of a 1.0 m wingspan fixed-wing trainer aircraft. Built under a strict £100 budget target, the airframe combines a 3D-printed PLA structure with continuous carbon-fiber reinforcement.
 
 <p align="center">
-  <img src="assets/cad_full_assembly.png" width="800" alt="Project Daedalus CAD Assembly">
+  <img src="daedulus media/daedulusrender2.png" width="800" alt="Project Daedalus CAD Assembly">
   <br>
   <em>Figure 1: Full CAD assembly, designed and rendered in Autodesk Fusion showing ground stance and airframe layout.</em>
 </p>
