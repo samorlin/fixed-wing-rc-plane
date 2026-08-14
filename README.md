@@ -1,8 +1,8 @@
-#Project Daedalus | Fixed-Wing Trainer RC Aircraft
+# Project Daedalus | Fixed-Wing Trainer RC Aircraft
 
 
 > [!NOTE]
->**Full Engineering Report Available:** Read the complete aero-structural design report [**here in PDF format**](<./Daedulus Full Engineering Report/Aero_Structural_Design_Report.pdf>)[cite: 1].
+>**Full Engineering Report Available:** Read the complete aero-structural design report [**here in PDF format**](Daedulus Full Engineering Report/Aero_Structural_Design_Report.pdf).
 
 > **A lightweight, 3D-printable fixed-wing RC aircraft designed, analyzed, and optimized for low-cost aerodynamic performance and structural resilience.**
 
