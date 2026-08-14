@@ -1,6 +1,6 @@
 # ✈️ Project Daedalus | Fixed-Wing Trainer RC Aircraft
 
-[![View Design Report](https://img.shields.io/badge/📄_Read-Design_Report-red?style=for-the-badge)](Daedulus_Design_Report.pdf)
+[![View Design Report](https://img.shields.io/badge/📄_Read-Design_Report-red?style=for-the-badge)](Daedulus Full Engineering Report/Aero_Structural_Design_Report.pdf)
 
 > **A lightweight, 3D-printable fixed-wing RC aircraft designed, analyzed, and optimized for low-cost aerodynamic performance and structural resilience.**
 
