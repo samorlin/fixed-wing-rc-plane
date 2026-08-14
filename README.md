@@ -44,7 +44,7 @@
 To verify that a lightweight $6\text{ mm}$ outer-diameter carbon spar withstands a $3g$ pull-up maneuver, bending stress ($\sigma_{\text{max}}$) was computed using Euler-Bernoulli beam theory:
 
 <p align="center">
-  <img src="assets/beam_loading_fbd.png" width="600" alt="3g Pull-Up Beam Free Body Diagram">
+  <img src="daedulus media/beamloading.png" width="600" alt="3g Pull-Up Beam Free Body Diagram">
   <br>
   <em>Figure 2: Beam loading free body diagram for a 3g maneuver load of 29.43 N total lift.</em>
 </p>
@@ -85,8 +85,8 @@ To generate the required cruise lift coefficient ($C_{L,\text{target}} = 0.475$)
 * **Longitudinal Stability:** $X_{\text{cg}}$ set at $31\%$ MAC ($226.5\text{ mm}$ from LE), achieving a $10\%$ Static Margin with negative pitching moment slope ($\frac{d C_m}{d\alpha} < 0$).
 
 <p align="center">
-  <img src="assets/vspaero_spanwise_lift.png" width="45%" alt="Spanwise Circulation">
-  <img src="assets/vspaero_cm_alpha.png" width="45%" alt="Cm vs Alpha Stability Curve">
+  <img src="daedulus media/screenshot1.png" width="45%" alt="Spanwise Circulation">
+  <img src="daedulus media/screenshot2.png" width="45%" alt="Cm vs Alpha Stability Curve">
   <br>
   <em>Figure 4: Spanwise circulation distribution (Left) and Pitching Moment ($C_m$ vs $\alpha$) curve confirming static longitudinal stability (Right).</em>
 </p>
