@@ -1,13 +1,17 @@
-# Project Daedalus Fixed-Wing Trainer RC Aircraft
+# ✈️ Project Daedalus | Fixed-Wing Trainer RC Aircraft
+
+[![View Design Report](https://img.shields.io/badge/📄_Read-Design_Report-red?style=for-the-badge)](Daedulus_Design_Report.pdf)
 
 > **A lightweight, 3D-printable fixed-wing RC aircraft designed, analyzed, and optimized for low-cost aerodynamic performance and structural resilience.**
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
-**Project Daedalus** is an aerospace engineering project documenting the end-to-end aero-structural design, numerical simulation, and manufacturing layout of a 1.0 m wingspan fixed-wing trainer aircraft. Built under a strict £100 budget target, the airframe combines a 3D-printed PLA structure with continuous carbon-fiber reinforcement.
+**Project Daedalus** is an aerospace engineering project documenting the end-to-end aero-structural design, numerical simulation, and manufacturing layout of a 1.0 m wingspan fixed-wing trainer aircraft. 
 
+* 📄 **Complete Report:** Read the full [Daedalus Aero-Structural Design Report (PDF)](Daedulus_Design_Report.pdf)
+* 🛠️ **Budget:** £85.19 total outlay (under £100 target)
 <p align="center">
   <img src="daedulus media/daedulusrender2.png" width="800" alt="Project Daedalus CAD Assembly">
   <br>
