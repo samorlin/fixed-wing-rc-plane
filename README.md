@@ -1,11 +1,11 @@
 # Daedalus 1.0m Fixed-Wing RC Aircraft (Aero-Structural Design)
 
-![Isometric CAD View](./images/cad_full_assembly.png) <!-- Embed Fig 9/10 from your report -->
+![Isometric CAD View](daedulusrender2.png) <!-- Embed Fig 9/10 from your report -->
 
 ## Executive Summary
 Complete design, structural sizing, aerodynamic simulation, and manufacturing layout for a 1.0 kg, 1.0 m wingspan 3D-printed RC trainer aircraft. 
 
-* 📄 **[Read Full Engineering Report (PDF)](./Daedalus_Aero_Structural_Design_Report.pdf)**
+* 📄 **[Read Full Engineering Report (PDF)](Aero_Structural_Design_Report.pdf)**
 * 📐 **CAD Files:** Available in `/cad` (Fusion / STEP format)
 * 📊 **Aero Simulation:** OpenVSP files available in `/aero`
 
