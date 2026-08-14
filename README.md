@@ -98,11 +98,11 @@ To generate the required cruise lift coefficient ($C_{L,\text{target}} = 0.475$)
 The airframe was modeled in **Autodesk Fusion** to integrate structural hardware, internal electronics, and aerodynamic shaping:
 
 <p align="center">
-  <img src="daedulus media/internal_bay.png" width="30%" alt="Internal Bay">
-  <img src="daedulus media/servo_bay.png" width="30%" alt="Servo Bay">
-  <img src="assets/cad_motor_cowl.png" width="30%" alt="Nose Cowl">
+  <img src="daedulus media/internal_bay.png" width="45%" alt="Internal Bay">
+  <img src="daedulus media/servo_bay.png" width="45%" alt="Servo Bay">
+ 
   <br>
-  <em>Figure 5: Internal equipment bay (Left), flush servo mounting pockets (Center), and detachable motor cowl with $2^\circ$ right/down thrust offset (Right).</em>
+  <em>Figure 5: Internal equipment bay (Left), flush servo mounting pockets (Right)</em>
 </p>
 
 * **Internal Equipment Bay:** Central hollow housing for $3\text{S Lipo}$ battery, ESC, and receiver with sliding range for CG tuning.
