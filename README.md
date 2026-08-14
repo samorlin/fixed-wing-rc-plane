@@ -14,7 +14,7 @@
 
 **Project Daedalus** is an aerospace engineering project documenting the end-to-end aero-structural design, numerical simulation, and manufacturing layout of a 1.0 m wingspan fixed-wing trainer aircraft. 
 
-* **Complete Report:** Read the full [Daedalus Aero-Structural Design Report (PDF)](Daedulus_Design_Report.pdf)
+* **Complete Report:** Read the full [Daedalus Aero-Structural Design Report (PDF)](./Daedulus%20Full%20Engineering%20Report/Aero_Structural_Design_Report.pdf)
 * **Budget:** £85.19 total outlay (under £100 target)
 <p align="center">
   <img src="daedulus media/daedulusrender2.png" width="800" alt="Project Daedalus CAD Assembly">
