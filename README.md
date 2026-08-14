@@ -2,7 +2,7 @@
 
 
 > [!NOTE]
->**Full Engineering Report Available:** Read the complete aero-structural design report [**here in PDF format**](Daedulus Full Engineering Report/Aero_Structural_Design_Report.pdf).
+>**Full Engineering Report Available:** Read the complete aero-structural design report [**here in PDF format**](./Daedulus Full Engineering Report/Aero_Structural_Design_Report.pdf).
 
 > **A lightweight, 3D-printable fixed-wing RC aircraft designed, analyzed, and optimized for low-cost aerodynamic performance and structural resilience.**
 
@@ -10,7 +10,7 @@
 
 ---
 
-##Project Overview
+## Project Overview
 
 **Project Daedalus** is an aerospace engineering project documenting the end-to-end aero-structural design, numerical simulation, and manufacturing layout of a 1.0 m wingspan fixed-wing trainer aircraft. 
 
